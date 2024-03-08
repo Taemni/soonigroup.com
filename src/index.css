@@ -1,0 +1,9 @@
+html {
+  overflow-y: scroll;
+}
+
+body {
+  font-family: "Pretendard";
+  font-weight: 400;
+  background: #edf1f5;
+}

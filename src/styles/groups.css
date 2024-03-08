@@ -1,0 +1,59 @@
+/*
+  .grade-1 .side-stick {
+    background-color: ;
+  }
+  .grade-2 .side-stick {
+    background-color: ;
+  }
+  .grade-5 .side-stick {
+    background-color: ;
+  }
+  .grade-6 .side-stick {
+    background-color: ;
+  }
+  .grade-3 .side-stick, .grade-10 .side-stick {
+    background-color: ;
+  }
+*/
+
+.grade-999 .side-stick {
+  background-color: rgb(255, 193, 7);
+}
+
+.point {
+  color: rgba(0, 0, 0, 0.7);
+}
+.note-1 .point {
+  color: rgba(82, 95, 127, 0.5);
+}
+.note-2 .point {
+  color: rgba(255, 80, 80, 0.5);
+}
+.note-3 .point {
+  color: rgba(44, 171, 227, 0.5);
+}
+
+.live {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  background: #ff1e1e;
+  height: 17px;
+  padding: 0 7px;
+  border: 1px solid #ff0000;
+  border-radius: 16px;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 10px;
+  font-weight: bold;
+  line-height: 15px;
+  text-decoration: none;
+  letter-spacing: 1px;
+}
+
+.broad-link {
+  text-decoration: none;
+}
+.sns-link {
+  color: black;
+}

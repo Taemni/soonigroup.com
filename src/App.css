@@ -1,0 +1,40 @@
+.page-container {
+  max-width: 1140px;
+  margin-top: 20px;
+}
+
+.card {
+  border: 0;
+  border-radius: 15px;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.fs-7 {
+  font-size: 0.75rem !important;
+}
+
+.side-stick {
+  position: absolute;
+  width: 3px;
+  height: 35px;
+  left: 0;
+}
+.side-stick {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.note-1 .side-stick {
+  background-color: rgba(82, 95, 127, 0.5);
+}
+.note-2 .side-stick {
+  background-color: rgba(255, 80, 80, 0.5);
+}
+.note-3 .side-stick {
+  background-color: rgba(44, 171, 227, 0.5);
+}
