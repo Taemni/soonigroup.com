@@ -77,7 +77,7 @@ function Main() {
             <span className="d-block text-decoration-line-through">03.04(월) 철권 크루대전 (수니그룹vs최가네)</span>
             <span className="d-block text-decoration-line-through">03.05(화) 스토브리그 (데스매치, 이적시장)</span>
             <span className="d-block text-decoration-line-through">03.06(수) 기획팀 컨텐츠</span>
-            <span className="d-block">03.09(토) 징계위원회, 결산, 서운쇼</span>
+            <span className="d-block text-decoration-line-through">03.09(토) 징계위원회, 결산, 서운쇼</span>
             <span className="d-block">03.12(화) 통합 중간점검</span>
             <span className="d-block">03.14(목) 통합 최종점검</span>
           </p>
