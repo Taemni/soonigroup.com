@@ -19,7 +19,7 @@ const ico = (exp) => {
   if (exp >= 10) {
     src = "/static/images/partner.png";
     alt = "파트너 직원";
-  } else if (exp >= 5) {
+  } else if (exp >= 4) {
     src = "/static/images/best.png";
     alt = "베스트 직원";
   } else {
@@ -80,7 +80,7 @@ const Group = () => {
   return (
     <>
       <div className="alert alert-info alert-dismissible fade show">
-        <strong>※</strong> <a href="https://bj.afreecatv.com/wnnw/post/118223643">2024. 03. 08 수니그룹 조직도 (12AM)</a> 기준
+        <strong>※</strong> <a href="https://bj.afreecatv.com/wnnw/post/118900553">2024. 03. 13 수니그룹 조직도 (12AM)</a> 기준
         {/* <button type="button" className="btn-close" data-bs-dismiss="alert"></button> */}
       </div>
       <div className="row g-3" id="list">
